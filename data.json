@@ -1,0 +1,24 @@
+{
+	"abbv":{
+		"pid": 3
+		},
+	"conversions":{
+		"lbto": 2.2046
+		},
+
+	"weight": {
+
+		"english":{
+			"ounce":1,
+			"pound":16
+			},
+
+		"metric" :{
+			"milli":	0.001,
+			"centi":	0.01,
+			"deci":		0.1,
+			"gram": 	1,
+			"kilo":		1000
+		}
+	}
+}
